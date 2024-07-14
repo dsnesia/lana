@@ -1,0 +1,177 @@
+{
+  "allcommand": [
+    "Menu",
+    "Hapususer",
+    "Qc",
+    "S",
+    "Sc",
+    "Backup"
+  ],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    },
+    {
+      "name": "limit",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [
+    {
+      "cmd": "Menu",
+      "succes": 4,
+      "failed": 0
+    },
+    {
+      "cmd": "Hapususer",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "Qc",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "S",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Sc",
+      "succes": 3,
+      "failed": 0
+    },
+    {
+      "cmd": "Backup",
+      "succes": 3,
+      "failed": 1
+    }
+  ],
+  "listerror": [
+    {
+      "error": "ENOENT: no such file or directory, open './stik/thumbnaildokumen.jpg'",
+      "cmd": "backup"
+    },
+    {
+      "error": "The argument 'file' cannot be empty. Received ''",
+      "cmd": "$"
+    }
+  ],
+  "sticker": {},
+  "audio": {},
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1719578985614,
+      "totalcmd": 18
+    }
+  ],
+  "clearchat": [],
+  "users": {
+    "6289513915702@s.whatsapp.net": {
+      "name": "No Name",
+      "id": "6289513915702",
+      "date": "27 Juni 2024",
+      "exp": 100,
+      "level": 1,
+      "hit": 0,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "3TR4",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6285773089737@s.whatsapp.net": {
+      "name": "y.",
+      "id": "6285773089737",
+      "date": "27 Juni 2024",
+      "exp": 100,
+      "level": 1,
+      "hit": 11,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "9CAX",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1719493176404,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "120363041471766776@g.us": {
+      "name": [],
+      "add": 0,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "desc": true,
+      "descUpdate": true,
+      "autostiker": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antidelete": false,
+      "antiasing": false,
+      "banchat": false,
+      "expired": 0,
+      "antibadword": true,
+      "antispam": true,
+      "antitroli": false,
+      "antivirtex": false,
+      "antihidetag": false,
+      "viewonce": true,
+      "nsfw": false,
+      "clear": false,
+      "clearTime": 0
+    }
+  },
+  "settings": {
+    "settingbot": {
+      "status": 1687749168865,
+      "setmenu": "document",
+      "docType": "docx",
+      "Qoted": "ftoko",
+      "autoBio": false,
+      "multi": true,
+      "prefix": "!",
+      "fake": "Lanabotz",
+      "autoblockcmd": false,
+      "fake1": "Extream",
+      "replyType": "web",
+      "setwelcome": "type11",
+      "autoReport": true,
+      "autoLevel": true,
+      "autoSticker": false
+    }
+  },
+  "kickon": {},
+  "others": {
+    "runtime": {
+      "runtime": 1719492589329,
+      "lastTime": 1719493458663
+    }
+  }
+}
